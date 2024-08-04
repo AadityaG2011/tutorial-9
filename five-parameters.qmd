@@ -13,3 +13,5 @@ execute:
 library(tidyverse)
 library(primer.data)
 ```
+
+Using data from all deceased candidates for governor in the United States between 1945 and 2011, we seek to forecast candidate longevity post-election for candidates running in campaigns between 2000 and 2050.
